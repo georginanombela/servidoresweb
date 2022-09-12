@@ -1,0 +1,25 @@
+    body {
+        background-color: rgb(214, 214, 214);
+    }
+    
+    .container {
+        padding: 10px;
+        background-color: rgba(165, 207, 241, 0.4);
+        border-radius: 10px;
+    }
+    
+    .margenSuperior {
+        margin-top: 100px;
+    }
+    
+    .anchoContainer {
+        width: 400px;
+    }
+    
+    .sombra {
+        box-shadow: -10px 10px 15px;
+    }
+    
+    h5 {
+        font-family: Roboto;
+    }
