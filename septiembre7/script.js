@@ -12,7 +12,7 @@ function validar() {
 
     if (usuario == usuarioValido && contrasena == contrasenaValida) {
 
-        document.getElementById("miContenedor").innerHTML = `<img src="imagenes/dentro.webp" alt="foto verde" style="width:80px;">`;
+        location.replace("septiembre7/yocorregida.html");
 
     } else {
         document.getElementById("miContenedor").innerHTML = `<img src="imagenes/fuera.jpg" style="width:350px;" alt="foto roja">`;
@@ -24,11 +24,6 @@ function validar() {
         document.getElementById("campo2").value = " ";
 
     }
-    if (usuario == usuarioValido && contrasena == contrasenaValida) {
-
-location.replace("septiembre7/yocorregida.html");
- }
-    
 }
 
 function calcular() {
