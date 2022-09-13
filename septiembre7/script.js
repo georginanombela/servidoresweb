@@ -26,7 +26,7 @@ function validar() {
     }
     if (usuario == usuarioValido && contrasena == contrasenaValida) {
 
-location.replace("septiembre7/yocorregida.html")   ¨
+location.replace("septiembre7/yocorregida.html");
  }
     
 }
