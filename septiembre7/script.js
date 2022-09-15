@@ -31,8 +31,6 @@ function calcular() {
     var metros = document.getElementById("campo3").value;
 
     var resultado = metros*39.3701;
- 
-    document.getElementById("mimuestra").innerHTML = resultado;
 
     document.getElementById("pulgadas").value=resultado;
 

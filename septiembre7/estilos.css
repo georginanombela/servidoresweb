@@ -1,10 +1,13 @@
     body {
-        background-color: rgb(214, 214, 214);
+        background-image:url('https://wallpaperaccess.com/full/763110.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+  background-size: cover;
     }
     
     .container {
         padding: 10px;
-        background-color: rgba(165, 207, 241, 0.4);
+        background-color: rgba(255, 255, 255, 0.507);
         border-radius: 10px;
     }
     
